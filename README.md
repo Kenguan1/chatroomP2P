@@ -4,10 +4,15 @@ Chatroom Peer-to-Peer entre diferentes nodos (descentralizado), mensajes encript
 
 3.	Librerías utilizadas
 Se instalaron e importaron las siguientes librerías:
+
 •	tkinter (tk): Librería usada para la creación y desarrollo de interfaces gráficas de usuario (GUI) para aplicaciones de Python.
+
 •	socket: Librería usada para la conexión y comunicación entre dos nodos de una red.
+
 •	_thread: Librería usada para la creación de hilos que permita la ejecución simultánea de tareas individuales. 
+
 •	pycryptodome: Librería usada para la encriptación y desencriptación de los mensajes entre nodos.
+
 •	base64: Librería usada para la codificación y decodificación de la información que viaja entre nodos.
 
 
