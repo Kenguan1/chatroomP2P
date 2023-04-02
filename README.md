@@ -2,7 +2,7 @@
 
 Chatroom Peer-to-Peer entre diferentes nodos (descentralizado), mensajes encriptados, privados, grupales y envió de archivos
 
-3.	Librerías utilizadas
+Librerías utilizadas
 Se instalaron e importaron las siguientes librerías:
 
 •	tkinter (tk): Librería usada para la creación y desarrollo de interfaces gráficas de usuario (GUI) para aplicaciones de Python.
